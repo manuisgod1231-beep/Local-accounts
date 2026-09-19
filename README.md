@@ -12,6 +12,6 @@
 
 - now move that local Account file to Amethyst/account
 
-  
+
 - why we need to change file name same as username we set?
 - because it not gonna work if username we set and file name doesn’t match
